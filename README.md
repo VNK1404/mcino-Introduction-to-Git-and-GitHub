@@ -22,3 +22,5 @@ chmod +x simple-interest.sh
 ## Project
 
 This project demonstrates basic Git and GitHub workflows, including repositories, branches, commits, forks, merges, and pull requests.
+
+_© 2022 XYZ, Inc._
